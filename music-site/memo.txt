@@ -1,0 +1,41 @@
+Ctrl + C コピー
+Ctrl + V ペースト
+
+Ctrl + X 切り取り
+Ctrl + Z １つまえにもどる
+Ctrl + S 保存
+Ctrl + A 全て選択
+
+ファイル→名前を付けて保存するときは、ctrl+S
+
+同じフォルダにメモファイルを作る場合は上部の空白の部分をクリック
+やったことをメモしたいときはmemo.txtがおすすめ
+
+HTMLやCSSをブラウザで表示したいとき
+ctrl+shift+pで「コマンドパレット」表示
+live sever と入力し、open with live server を選択すると表示されるされる
+
+cssの意味
+padding　枠の内側の余白を調整
+margin 要素の外側の余白を調整
+border　枠線をつける
+border-radius 枠の角を丸くする
+text-align:center;テキストを中央に表示
+display:block;一段落みたいに表示
+max-width 画面が広くても幅を一定に保つ
+box-shadow 影をつけて立体感をだす
+font-family 文字のデザインを決める
+font-weight 文字の太さ
+color 文字の色を変える
+background-color 背景の色を変える
+
+htmlの意味
+html　HyperText Markup Language・ウェブページを作るための基本の言語
+head　情報や設定（CSSの読み込みなど）を書く場所
+body　実際にページに表示される内容を書く場所
+link　他のファイル（CSSなど）を読み込むタグ
+rel="stylesheet"　読み込むファイルが見た目（デザイン）用ですよ、という指定
+href="style.css"　Hyper Reference（ハイパーリンク）・読み込むファイル名（この場合CSS）
+meta　ページの言語や文字コードを設定する
+charset="UTF-8"	character set（文字の並び）	日本語などを正しく表示するための設定
+title　ページのタイトル（ブラウザのタブに表示）
